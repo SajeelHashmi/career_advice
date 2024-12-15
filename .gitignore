@@ -1,0 +1,5 @@
+env/
+.env
+*.zip
+*.db
+__pycache__/
